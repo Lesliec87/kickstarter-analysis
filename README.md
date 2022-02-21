@@ -14,7 +14,8 @@ From the outcomes based on the launch dates, I gathered the campaigns in the the
 
 Therefor, I noticed that highest amount of successful theater campaigns were during the months of May to July which I can demostrate the information with the line chart below: 
 
-<Theater_Outcomes_vs_Launch.png>
+<![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99294497/155038059-617ce11d-6d90-44d5-a4e6-ebf41b0c8114.png)
+>
 
 ### Analysis of Outcomes Based on Goals
 
