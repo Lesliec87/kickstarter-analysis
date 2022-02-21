@@ -1,9 +1,10 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
+Louise is an up-coming play writer who has a play called Fever that is near it's fundraising goal. In planning the funding of her play she wanted to review how different campaigns performed depending on their launch dates and funding goals.
 
 ### Purpose
+The purpose of this analysis is to assist Louise in predicting what the success of her play will look like in a year after the launch date. This includes comparing other campaigns that have been successful or failed in the past years by reviewing the relation of their lauch date and their funding goal.
 
 ## Analysis and Challenges
 
