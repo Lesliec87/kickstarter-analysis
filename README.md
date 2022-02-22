@@ -18,7 +18,6 @@ Therefor, I noticed the following:
 - The amount of canceled campaigns is higherst in the month of January.
 
 This information is demostrated with the line chart below: 
-
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99294497/155038059-617ce11d-6d90-44d5-a4e6-ebf41b0c8114.png)
 >
 
@@ -33,8 +32,8 @@ For this analysis I notice the following:
 - Also that there are zero canceled campaigns in this subcategory. 
 
 This information is demostrated with the line chart below: 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99294497/155041500-36dcbb91-4d71-45b7-8d0b-99dc8df31fce.png)
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99294497/155041336-940bf854-dcd5-4ff7-b561-9e4e5eb69e7a.png)
 
 
 ### Challenges and Difficulties Encountered
