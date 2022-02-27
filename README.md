@@ -10,7 +10,7 @@ The purpose of this analysis is to assist Louise in predicting the success of he
 To carry out the analysis, I used the Kickstarter worksheet to go over the outcomes by launch dates and based on the goals of campaigns that were in theater category and plays as subcategory. 
 
 ### Analysis of Outcomes Based on Launch Date
-From the outcomes based on the launch dates, I gathered the campaigns in the theater category from 2009 ot 2017 (8 years) to go over which ones were successfull, failed or were canceled depending on the month of the year their launch date was. I created a pivot table to better analyze the amount of campaigns that were either successful, failed or canceled in each month. 
+From the outcomes based on the launch dates, I gathered the campaigns in the theater category from 2009 to 2017 (8 years) to go over which ones were successfull, failed or were canceled depending on the month of the year their launch date was. I created a pivot table to better analyze the amount of campaigns that were either successful, failed or canceled in each month. 
 
 Therefor, I noticed the following: 
 - The highest amount of successful theater campaigns were during the months of May to July and it is also when the most campaigns have lauching dates in the year.
