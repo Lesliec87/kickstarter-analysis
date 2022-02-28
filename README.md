@@ -12,7 +12,7 @@ To carry out the analysis, I used the Kickstarter worksheet to go over campaigns
 ### Analysis of Outcomes Based on Launch Date
 From the outcomes based on the launch dates, I gathered the campaigns in the theater category from 2009 to 2017 (8 years) to go over which ones were successfull, failed or were canceled depending on the month their launch date was. I created a pivot table to better analyze the amount of campaigns that were either successful, failed or canceled in each month. 
 
-Therefor, I noticed the following: 
+Therefore, I noticed the following: 
 - The highest amount of successful theater campaigns were during the months of May to July and it is also when the most campaigns have lauching dates in the year.
 - In the month of December there are the highest number of failed campaigns and when the least campaigns have launch dates. 
 - The amount of canceled campaigns is highest in the month of January.
@@ -40,7 +40,6 @@ This information is demostrated with the line chart below:
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. As mentioned above in [Analysis of Outcomes Based on Launch Date](#Analysis-of-Outcomes-Based-on-Launch-Date)he best time for Louise to plan on the Launch Date for her play should be in the months (May to July) were the highest amount of campaigns were successfull since it could be associate to there being more activity in the summer season and less during late fall and winter/holiday seasons. 
 2. Additionally, try to avoid the months that seem to have the highest failed and canceled campaigns such as October to January and this can also be associated to months where there can be more adverse weather conditions. 
-
 
 - What can you conclude about the Outcomes based on Goals?
 1. As mentioned above in my [Analysis of Outcome Base on Goals](#Analysis-of-Outcomes-Based-on-Goals), there are higher number of total projects (play campaigns) with a lower goal amount and also higher percentage of campaigns being successful and after $24999 or higher goal amount the total projects are lower and the percentage of campaigns that failed to reach their goal increases. 
