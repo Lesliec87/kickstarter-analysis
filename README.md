@@ -21,7 +21,7 @@ This information is demostrated with the line chart below:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99294497/155038059-617ce11d-6d90-44d5-a4e6-ebf41b0c8114.png)
 >
 
-### Analysis-of-Outcomes-Based-on-Goals
+### Analysis of Outcomes Based on Goals
 From the outcomes base on goals, I analysed the campaign goals depending on the range of the goal starting from less than $1000 to more than $50000, then depending on those ranges the number of campaings that were successful, failed or canceled in reaching their goal and filtering by "Plays" as the subcategory. 
 
 Additionally, from the number of campaings that were successful, failed or canceled reaching their goal we will get the percentage compared to the total number of projects for each range.
@@ -43,7 +43,7 @@ This information is demostrated with the line chart below:
 
 
 - What can you conclude about the Outcomes based on Goals?
-1. A mentioned above in my [Analysis of Outcome Base on Goals](#Analysis-of-Outcomes-Based-on-Goals), there are higher number of total projects (play campaigns) with a lower goal amount and also higher percentage of campaigns being successful and after $24999 or higher goal amount the total projects are lower and the percentage of campaigns that failed to reach their goal increases. 
+1. A mentioned above in my [Analysis of Outcome Base on Goals](#Analysis of Outcomes Based on Goals), there are higher number of total projects (play campaigns) with a lower goal amount and also higher percentage of campaigns being successful and after $24999 or higher goal amount the total projects are lower and the percentage of campaigns that failed to reach their goal increases. 
 
 - What are some limitations of this dataset?
 I believe there could of been more details to help define a more prescise outcome such as reviewing campaigns in the same region to get best outcomes. Also not knowing the budget that Louise had in mind for her play to determine specifically what data we can focus more on. Therefore, I feel we could of found a more 
