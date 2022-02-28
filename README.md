@@ -37,16 +37,16 @@ This information is demostrated with the line chart below:
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. As mentioned above in [Analysis of Outcomes Based on Launch Date](#Analysis-of-Outcomes-Based-on-Launch-Date)he best time for Louise to plan on the Launch Date for her play should be in the months (May to July) were the highest amount of campaigns were successfull since it could be associate to there being more activity in the summer season and less during late fall and winter/holiday seasons. 
-2. Additionally, try to avoid the months that seem to have the highest failed and canceled campaigns such as October to January and this can also be associated to months where there can be more adverse weather conditions. 
+1. What are two conclusions you can draw about the Outcomes based on Launch Date?
+- As mentioned above in [Analysis of Outcomes Based on Launch Date](#Analysis-of-Outcomes-Based-on-Launch-Date)he best time for Louise to plan on the Launch Date for her play should be in the months (May to July) were the highest amount of campaigns were successfull since it could be associate to there being more activity in the summer season and less during late fall and winter/holiday seasons. 
+- Additionally, try to avoid the months that seem to have the highest failed and canceled campaigns such as October to January and this can also be associated to months where there can be more adverse weather conditions. 
 
-- What can you conclude about the Outcomes based on Goals?
-1. As mentioned above in my [Analysis of Outcome Base on Goals](#Analysis-of-Outcomes-Based-on-Goals), there are higher number of total projects (play campaigns) with a lower goal amount and also higher percentage of campaigns being successful and after $24999 or higher goal amount the total projects are lower and the percentage of campaigns that failed to reach their goal increases. 
+2. What can you conclude about the Outcomes based on Goals?
+- As mentioned above in my [Analysis of Outcome Base on Goals](#Analysis-of-Outcomes-Based-on-Goals), there are higher number of total projects (play campaigns) with a lower goal amount and also higher percentage of campaigns being successful and after $24999 or higher goal amount the total projects are lower and the percentage of campaigns that failed to reach their goal increases. 
 
-- What are some limitations of this dataset?
-I believe there could of been more details to help define a more prescise outcome such as reviewing campaigns in the same region to get best outcomes. Also not knowing the budget that Louise had in mind for her play to determine specifically what data we can focus more on. Therefore, I feel we could of found a more 
+3. What are some limitations of this dataset?
+- I believe there could of been more details to help define a more prescise outcome such as reviewing campaigns in the same region to get best outcomes. Also not knowing the budget that Louise had in mind for her play to determine specifically what data we can focus more on. Therefore, I feel we could of found a more 
 
-- What are some other possible tables and/or graphs that we could create?
-1. Another possible table and graph that would be useful to look into is how long the plays that were succesful took to reach their goals to analyse more details of the successful campaigns. 
+4. What are some other possible tables and/or graphs that we could create?
+- Another possible table and graph that would be useful to look into is how long the plays that were succesful took to reach their goals to analyse more details of the successful campaigns. 
 
