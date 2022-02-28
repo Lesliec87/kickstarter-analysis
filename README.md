@@ -21,6 +21,8 @@ This information is demostrated with the line chart below:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99294497/155038059-617ce11d-6d90-44d5-a4e6-ebf41b0c8114.png)
 >
 
+You canview this line chart further in [Theater Outcomes](https://github.com/Lesliec87/kickstarter-analysis/blob/b7abc2197b449a54baaf9480a82c973c63911b64/Kickstarter_Challengecopy.xlsx.zip).
+
 ### Analysis of Outcomes Based on Goals
 From the outcomes base on goals, I analysed the campaign goals depending on the range of the goal starting from less than $1000 to more than $50000, then depending on those ranges the number of campaings that were successful, failed or canceled in reaching their goal and filtering by "Plays" as the subcategory. 
 
